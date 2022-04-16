@@ -1,0 +1,49 @@
+[
+    {
+        "name":"Me On Google Street View",
+        "address":"5070 N 83rd Ave, Glendale, AZ 85305",
+        "image": "images/Street.png",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3326.6656912352064!2d-112.24019728457205!3d33.51007398075682!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x872b6bb51ac86f47%3A0xbbf857792f4fc6e1!2sE%C5%8DS%20Fitness!5e0!3m2!1sen!2sus!4v1647993750188!5m2!1sen!2sus",
+        "description": "In this location I was coming out of the gym and happen to see the google street car"
+    },
+    
+    {
+        "name":"Six Flags: Magic Mountain",
+        "address":"26101 Magic Mountain Pkwy, Valencia, CA 91355",
+        "image": "images/SixFlags.jfif",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3291.0560849095696!2d-118.5994077845504!3d34.42533048050607!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c280a5bffa65c5%3A0x8f03c1443c734740!2sSix%20Flags%20Magic%20Mountain!5e0!3m2!1sen!2sus!4v1647992184222!5m2!1sen!2sus",
+        "description": "Six Flags Magic Mountain is known as the “Thrill Capital of the World,” the 260-acre theme park features world-class roller coasters and over 100 rides, games and attractions for the entire family and was voted by USA TODAY readers as America's Best Theme Park."
+    },
+
+    {
+        "name":"Las Vegas Strip",
+        "address":"South Las Vegas Boulevard",
+        "image": "images/Strip.jfif",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d51568.24213601944!2d-115.2014622208016!3d36.11748905415346!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8c4383428d4eb%3A0x43e2195d0c26834c!2sLas%20Vegas%20Strip%2C%20NV!5e0!3m2!1sen!2sus!4v1647992293966!5m2!1sen!2sus",
+        "description": "The famous Strip, also known as the 'City Without Clocks,' is filled with light, glitz, and unlimited partying. The Las Vegas Strip is a stretch of South Las Vegas Boulevard in Clark County, popular amongst tourists and visitors for its concentration of resort hotels and casinos."
+    },
+
+    {
+        "name":"Freddy's Fazbear Dinner",
+        "address":"Heriberto M. Aja 1028, 5 de Mayo, 44970 Guadalajara, Jal., Mexico",
+        "image": "images/FNAF.jfif",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d64497890.32327398!2d-92.78447756684336!3d9.365194272557455!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8428addeda4b588b%3A0xddc8d826c06482e5!2sFreddy&#39;s%20Fazbear%20Dinner!5e0!3m2!1sen!2sus!4v1647993222909!5m2!1sen!2sus",
+        "description": "Freddy Fazbear's Pizza is a family pizza restaurant that features different animatronic mascots. The pizzeria is reminiscent of Chuck E. Cheese's and SnowBiz Pizza Place. The main mascots include Freddy Fazbear, Bonnie, Chica, and Foxy"
+    },
+
+    {
+        "name":"O Block",
+        "address":"6400 S King Dr, Chicago, IL 60637",
+        "image": "images/OBlock.png",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3189045.0707403393!2d-87.54622519557336!3d38.68791064359256!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x880e296ef8238b19%3A0x61e83e4c450ac2f7!2sO%20block!5e0!3m2!1sen!2sus!4v1647993833676!5m2!1sen!2sus",
+        "description": "It's a stretch of South King Drive where a young Michelle Obama once lived. They call it “O Block.”"
+    },
+
+    {
+        "name":"nba youngboy childhood home",
+        "address":"3863 Chippewa St, Baton Rouge, LA 70805",
+        "image": "images/NBA Youngboy.jpg",
+        "map":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3438.6791680892834!2d-91.15370408255615!3d30.4735242!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8626a11ca6aae725%3A0x111a6fd53cb2af73!2snba%20youngboy%20childhood%20home!5e0!3m2!1sen!2sus!4v1647993990346!5m2!1sen!2sus",
+        "description": "This is the childhood home of famous rapper NBA Youngboy"
+    }
+]
